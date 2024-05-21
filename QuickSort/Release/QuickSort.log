@@ -1,0 +1,7 @@
+﻿  main.cpp
+  QuickSort.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 17 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  QuickSort.vcxproj -> D:\CodingProjects\C++Projects\Quicksort\Release\QuickSort.exe
